@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.box{
+    height:300px;
+    background-color: blueviolet;
+    padding: 15px;
+    border: 2px solid black;
+    margin:60px;
+    border-radius: 20px;
+    box-shadow: 50px -50px  red; /* horizontal vertical and blurness*/
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    text-decoration:underline;
+    text-align: center;
+    border-top-right-radius: 5px solid yellow;
+           
+}
